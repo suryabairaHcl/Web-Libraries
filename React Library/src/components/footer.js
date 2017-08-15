@@ -5,7 +5,7 @@ class Footer extends Component {
   render() {
     return (
       <div className="App-footer">
-        <h4>This is a footer Page</h4>
+        <p>Contact information: <a href="mailto:someone@example.com">someone@example.com</a>.</p>
       </div>
     );
   }
